@@ -41,14 +41,13 @@ This product/solution would ultimately expand the market to include a larger cli
 All in all, this additional resource could be accessible through the current means we have today such as one's phone or computer through an application or via a website or call, whereas the more immersive augmented reality version could be accessed through the current and future iteration of today's AR/VR headsets. These technologies would be the easiest to implement through these means in the short term since software development talent is already familiar with creating code for these devices. In the end, the product development race will be what it is, a race, and one would be presumptuous to assume that this product/service hasn't already been imagined or is currently being developed right now. After all, "ideas are easy. Execution is everything."(John Doerr)
 
 ## References
-* [1],(https://www.jpmorganchase.com/about/our-history) https://www.jpmorganchase.com/about/our-history
-* https://www.company-histories.com/Bank-One-Corporation-Company-History.html
-* https://www.jpmorganchase.com/about/our-history
-* https://en.wikipedia.org/wiki/Jamie_Dimon
-* https://archive.nytimes.com/www.nytimes.com/learning/teachers/featured_articles/20000914thursday.html
-* https://www.cascade.app/studies/jpmorgan-chase-co-growth-through-mergers-and-acquisitions
-* https://www.jpmorgan.com/technology/digital-innovation
-* https://ctmfile.com/story/j.p.-morgan-launches-areax-to-rethink-processes-across-its-corporate-invest
-* https://stackshare.io/jpmorgan-chase-and-co/jpmchase-com
-* https://www.investopedia.com/terms/b/bulgebracket.asp#:~:text=As%20a%20catchall%20term%20for,%2C%20Morgan%20Stanley%2C%20and%20UBS.
-* https://www.google.com/finance/
+[JPMorganChase History](https://www.jpmorganchase.com/about/our-history)
+[Bank One History](https://www.company-histories.com/Bank-One-Corporation-Company-History.html)
+[Jamie Dimon Wikipedia](https://en.wikipedia.org/wiki/Jamie_Dimon)
+[NYTimes Articles Archive](https://archive.nytimes.com/www.nytimes.com/learning/teachers/featured_articles/20000914thursday.html)
+[Cascade JPM Growth through M&A](https://www.cascade.app/studies/jpmorgan-chase-co-growth-through-mergers-and-acquisitions)
+[JPMorgan Digital Innovation](https://www.jpmorgan.com/technology/digital-innovation)
+[JPMorgan launches AreaX](https://ctmfile.com/story/j.p.-morgan-launches-areax-to-rethink-processes-across-its-corporate-invest)
+[Stackshare JPM](https://stackshare.io/jpmorgan-chase-and-co/jpmchase-com)
+[Investopedia Bulge Brackets](https://www.investopedia.com/terms/b/bulgebracket.asp#:~:text=As%20a%20catchall%20term%20for,%2C%20Morgan%20Stanley%2C%20and%20UBS.)
+[Google Finance](https://www.google.com/finance/)
