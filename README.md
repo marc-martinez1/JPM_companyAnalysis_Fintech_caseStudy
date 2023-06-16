@@ -34,7 +34,7 @@ YTD, JPMorgan has seen a 5.90% increase. When compared to Morgan Stanley's 3.88%
 
 ## Recommendations
 
-If I were to advise the company, a major product/service I would recommend developing would be a financial roboadvisor. With the advent of A.I. and machine learning, it would be interesting to see how machine learning would disrupt the wealth management sector of JP Morgan from a private client advisor for high-net-worth individuals position to a position of easy, affordable investment solutions for the working and middle class.
+If I were to advise the company, a major product/service I would recommend developing would be a financial roboadvisor. With the advent of A.I. and machine learning, it would be interesting to see how machine learning would disrupt the wealth management sector of JP Morgan from a private client advisor for high-net-worth individuals position to a position of easy, affordable investment solutions for the working and middle class. Grand View Research expects the global robo advisory market size to grow from 4.13 billion USD in 2021 "at a compound annual growth rate of 29.7%" over the next 9 years! Certainly JP Morgan's unique position allows it a competitive advantage to succeed in this industry and aligns closely with its current and long-term strategies of growth through M&A transactions.
 
 This product/solution would ultimately expand the market to include a larger client base, and considering that a roboadvisor program would be significantly more affordable than employees, the ability to provide the service to those with lesser means is clear to see. That is not to say that private client advisors would immediately become unnecessary in the short-term, rather, the in-person service could be more compartmentalized for those who invest a sufficient amount to afford the additional, more expensive service. In addition, the introduction of Apple's AR headset could pave the way for additional services such as a 3d model of a roboadvisor that clients can access right from the comfort of their own homes.
 
@@ -42,12 +42,23 @@ All in all, this additional resource could be accessible through the current mea
 
 ## References
 [JPMorganChase History](https://www.jpmorganchase.com/about/our-history)
+
 [Bank One History](https://www.company-histories.com/Bank-One-Corporation-Company-History.html)
+
 [Jamie Dimon Wikipedia](https://en.wikipedia.org/wiki/Jamie_Dimon)
-[NYTimes Articles Archive](https://archive.nytimes.com/www.nytimes.com/learning/teachers/featured_articles/20000914thursday.html)
+
+[NYTimes Articles Archive: Chase Manhattan to Acquire J.P.Morgan](https://archive.nytimes.com/www.nytimes.com/learning/teachers/featured_articles/20000914thursday.html)
+
 [Cascade JPM Growth through M&A](https://www.cascade.app/studies/jpmorgan-chase-co-growth-through-mergers-and-acquisitions)
+
 [JPMorgan Digital Innovation](https://www.jpmorgan.com/technology/digital-innovation)
+
 [JPMorgan launches AreaX](https://ctmfile.com/story/j.p.-morgan-launches-areax-to-rethink-processes-across-its-corporate-invest)
+
 [Stackshare JPM](https://stackshare.io/jpmorgan-chase-and-co/jpmchase-com)
+
 [Investopedia Bulge Brackets](https://www.investopedia.com/terms/b/bulgebracket.asp#:~:text=As%20a%20catchall%20term%20for,%2C%20Morgan%20Stanley%2C%20and%20UBS.)
+
 [Google Finance](https://www.google.com/finance/)
+
+[Grand View Research: Industry Analysis: Roboadvisor](https://www.grandviewresearch.com/industry-analysis/robo-advisory-market-report#:~:text=The%20global%20robo%20advisory%20market,29.7%25%20from%202022%20to%202030.)
